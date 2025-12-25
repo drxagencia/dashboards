@@ -1,0 +1,5 @@
+{
+  "name": "DRX Admin Dashboard",
+  "description": "Painel administrativo moderno para gestão de pedidos, financeiro e estoque, integrado com Firebase.",
+  "requestFramePermissions": []
+}
